@@ -1,0 +1,14 @@
+{
+  "values": [
+    "command_block",
+    "chain_command_block",
+    "repeating_command_block",
+    "command_block_minecart",
+    "jigsaw",
+    "structure_block",
+    "structure_void",
+    "barrier",
+    "debug_stick",
+    "light"
+  ]
+}

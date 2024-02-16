@@ -1,0 +1,13 @@
+{
+  "values": [
+    "barrier",
+    "bedrock",
+    "command_block",
+    "chain_command_block",
+    "end_portal_frame",
+    "jigsaw",
+    "repeating_command_block",
+    "structure_block",
+    "barrier"
+  ]
+}
